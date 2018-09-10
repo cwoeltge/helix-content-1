@@ -22,7 +22,7 @@ It works! simple is up and running.
 
 ## What's next?
 
-1. Try editing `index.md` and see what happens.
+1. Try editing `index.md` and see what happens. - DONE!
 2. Try editing `src/html.htl` to change the HTML output
 3. Try editing `src/static/style.css` to change the way this page looks
 
