@@ -17,7 +17,10 @@
 ![Stockholm Harbor](https://spark.adobe.com/page/q628G2xmABPde/images/c91a80c3-3023-40f0-af1b-9911a9e5f25b.jpg)
 
 # Netcentric Experience
+
 6 November 2018 - Fotografskia Stockholm
+
+## What's next?
 
 We are excited to invite you to our *exclusive launch event in Stockholm at the iconic Fotografiska Stockholm* where we want to celebrate the opening of our activities and team in the Nordics region on Tuesday 6th November 2018 starting 6.00 pm.
 
