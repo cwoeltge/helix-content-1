@@ -14,21 +14,25 @@
   ~ See the License for the specific language governing permissions and
   ~ limitations under the License.
   -->
-![helix-logo](./helix_logo.png)
+![Stockholm Harbor](https://spark.adobe.com/page/q628G2xmABPde/images/c91a80c3-3023-40f0-af1b-9911a9e5f25b.jpg)
 
-# Helix - simple
+# Netcentric Experience
 
-It works! simple is up and running.
+6 November 2018 - Fotografskia Stockholm
 
 ## What's next?
 
-1. Try editing `index.md` and see what happens. - DONE!
-2. Try editing `src/html.htl` to change the HTML output
-3. Try editing `src/static/style.css` to change the way this page looks
+We are excited to invite you to our *exclusive launch event in Stockholm at the iconic Fotografiska Stockholm* where we want to celebrate the opening of our activities and team in the Nordics region on Tuesday 6th November 2018 starting 6.00 pm.
 
-## And then?
+[Register Now](laura.jollit@netcentric.biz)
 
-4. Commit your changes: `git commit -a`
-5. Publish your project to GitHub: `git add git remote add origin https://github.com/user/repo.git && git push`
-6. Deploy the project: `hlx deploy`
-7. Make it visible to the world: `hlx strains`
+Come, see, exchange and learn *how AI enables our client Siemens to change the brands perception fundamentally* and talk to the team in person. Presentations by *Conrad Wöltge* will be followed by a great dinner in the same location.
+
+Being the EMEA Adobe Experience Cloud partner of the year in 2018, we could not resist to start working for great clients using Adobe technology in the Nordics which resulted in setting up our local team in Stockholm and Copenhagen. We must say, all our 450+ Adobe experts working across multiple locations in Europe are looking forward to working on great projects, perhaps for you and other new customers in the region.
+Please RSVP today by replying to this email or contact (laura.jollit@netcentric.biz). We look forward to meet you there! [Mark Van der Wal](mark.vanderwal@netcentric.biz), Managing Director [Netcentric, A Cognizant Digital Business](www.netcentric.biz)
+
+[Register Now](laura.jollit@netcentric.biz)
+
+Learn more about *Netcentric, a Cognizant Digital Business*
+
+[Netcentric: About Us](https://youtube.com/embed/WWT0jaIjOHQ?enablejsapi=1)
