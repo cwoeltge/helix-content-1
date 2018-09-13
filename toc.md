@@ -1,2 +1,2 @@
-[Women in Leadership](women-in-leadership.md)
-[Stockholm](stockholm.md)
+- [Women in Leadership](women-in-leadership.md)
+- [Stockholm](stockholm.md)
