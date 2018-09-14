@@ -36,7 +36,7 @@ Please RSVP today by replying to this email or contact (laura.jollit@netcentric.
 [Register Now](mailto:laura.jollit@netcentric.biz)
 
 Learn more about *Netcentric, a Cognizant Digital Business*
-[![Netcentric: About Us](/images/video-about-netcentric.biz)](https://youtu.be/WWT0jaIjOHQ)
+[![Netcentric: About Us](/images/video-about-netcentric.png)](https://youtu.be/WWT0jaIjOHQ)
 
 - [Who we are](//www.netcentric.biz/who-we-are.html) 
 - [Imprint](//www.netcentric.biz/imprint.html) 
