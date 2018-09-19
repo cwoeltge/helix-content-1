@@ -14,18 +14,18 @@
   ~ See the License for the specific language governing permissions and
   ~ limitations under the License.
   -->
-![Stockholm Harbor](https://spark.adobe.com/page/gHvR401mxsJPL/images/f800c53e-4504-4588-a1bd-ebfbe0d78440.jpg)
+![Barcelona](https://spark.adobe.com/page/gHvR401mxsJPL/images/f800c53e-4504-4588-a1bd-ebfbe0d78440.jpg)
 
 # Women in Leadership Learning Experience
-
 October 28 -30
+
+## 
 
 ![Adobe|Netcentric](https://spark.adobe.com/page/gHvR401mxsJPL/images/7ddb056f-ae59-4ef5-a5ba-8ebfbdbc404f.jpg)
                   
 Adobe and Netcentric are incredibly excited to have you join us for a transformational learning and networking experience in Girona, Spain. The workshops will be led by Alex Depledge and Priya Lakhani, two dynamic women who successfully built and sold their own tech companies.
 A few things you will learn: how women can lead so others will follow; using diversity to drive innovation; how to speak the language of the ‘board’ and deliver shareholder value; how to get ‘buy-in’ from multiple stakeholders within the organization; how to navigate the politics and build consensus; how to structure teams to empower them; what is AI and what can it do for your business; and how marketing technology can truly deliver an holistic Customer Experience.
 Our goal is to help inspire you personally and professionally through an open-minded and open-hearted experience. Fed by the science of physiology and neurobiology to achieve a heightened mental state to learn and ideate, we look forward to engaging with you in thought provoking conversations amongst like-minded female peers and leaders.
-
 
 ## The Speakers
 
